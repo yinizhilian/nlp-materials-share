@@ -15,12 +15,13 @@
 
 ### 干货学习资源
 #### 文本生成资源大列表
-&ensp;&ensp;&ensp;&ensp;**[文本生成资源大列表](https://github.com/ChenChengKuan/awesome-text-generation)**,该资源主要整理列举了2018年EMNLP的优秀文本生成模型及应用案例（主要以Paper的形式给出）。其中主要包括：模型（GAN based、VAE based、Autoencoder based、Reinforcement learning based、Alternative decode objective、Tool and others）、应用（基于文本的强化学习、基于GAN的对抗学习等）。<br>
+&ensp;&ensp;&ensp;&ensp;[文本生成资源大列表](https://github.com/ChenChengKuan/awesome-text-generation),该资源主要整理列举了2018年EMNLP的优秀文本生成模型及应用案例（主要以Paper的形式给出）。其中主要包括：模型（GAN based、VAE based、Autoencoder based、Reinforcement learning based、Alternative decode objective、Tool and others）、应用（基于文本的强化学习、基于GAN的对抗学习等）。<br>
+
 #### 文本生成必读的几篇论文
-[A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
-[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
-[Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;1、[A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;2、[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;3、[Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)<br>
 
-
+## 未完待续。。。
 
 
