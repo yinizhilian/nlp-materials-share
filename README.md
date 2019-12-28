@@ -23,7 +23,7 @@
 #### 文本生成必读的几篇文章
 &ensp;&ensp;&ensp;&ensp;1、[Character based Recurrent Neural Network](https://github.com/karpathy/char-rnn)
 &ensp;&ensp;&ensp;&ensp;该篇文章主要讲述了最基本的Char-RNN文本生成原理，具体如下图所示。以要让模型学习写出“hello”为例，Char-RNN的输入输出层都是以字符为单位。输入“h”，应该输出“e”；输入“e”，则应该输出后续的“l”。输入层我们可以用只有一个元素为1的向量来编码不同的字符，例如，h被编码为“1000”、“e”被编码为“0100”，而“l”被编码为“0010”。使用RNN的学习目标是，可以让生成的下一个字符尽量与训练样本里的目标输出一致。在图一的例子中，根据前两个字符产生的状态和第三个输入“l”预测出的下一个字符的向量为<0.1, 0.5, 1.9, -1.1>，最大的一维是第三维，对应的字符则为“0010”，正好是“l”。这就是一个正确的预测。但从第一个“h”得到的输出向量是第四维最大，对应的并不是“e”，这样就产生代价。学习的过程就是不断降低这个代价。学习到的模型，对任何输入字符可以很好地不断预测下一个字符，如此一来就能生成句子或段落。<br>
-<div align=center>![image.png](https://upload-images.jianshu.io/upload_images/18628169-f3208db19bb7cb01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)<br>
+![image.png](https://upload-images.jianshu.io/upload_images/18628169-f3208db19bb7cb01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)
 
 &ensp;&ensp;&ensp;&ensp;1、[A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;2、[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
