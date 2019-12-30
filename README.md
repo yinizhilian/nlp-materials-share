@@ -52,6 +52,9 @@
 &ensp;&ensp;&ensp;&ensp;6、[（ACL 2019）This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation.)](https://www.aclweb.org/anthology/P19-1043)**电子邮件主题生成【美国耶鲁大学】**<br>
 &ensp;&ensp;&ensp;&ensp;提出并研究了电子邮件主题行生成任务:从电子邮件正文中自动生成电子邮件主题行。我们为这个任务创建了第一个数据集，并发现电子邮件主题行生成非常抽象，这与新闻标题生成或新闻单个文档摘要不同。然后，我们开发了一种新的深度学习方法，并将其与几种基线以及最新的最先进的文本摘要系统进行了比较。我们还研究了几种基于人类判断相关性的自动评价指标的有效性，并提出了一种新的自动评价指标。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054826<br>
 
+&ensp;&ensp;&ensp;&ensp;7、[（ACL 2019）Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491v1.pdf)**基于知识库的感知对话生成【腾讯AI Lab】**<br>
+&ensp;&ensp;&ensp;&ensp;本文的主要贡献有：1、提出了一种新的知识感知对话生成模型TransDG，该模型将知识库中的问题理解能力和事实提取能力转化为后理解能力和知识库中的事实知识选择能力。2、提出了一种多步译码策略，该策略能够捕捉到信息与响应之间的信息连接。第一步解码器产生的post和draft响应都与KB中的相关事实相匹配，使得第二步解码器产生的最终响应相对于post更合适、更合理。3、提出了一种响应引导注意机制，利用k-最佳响应候选项引导模型关注相关特征。4、在真实对话数据集上的大量实验表明，我们的模型在定量和定性两方面都优于比较方法。中文解读可见：https://zhuanlan.zhihu.com/p/99203505<br>
+
 ## 未完待续。。。
 
 
