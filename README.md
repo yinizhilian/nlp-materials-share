@@ -33,22 +33,24 @@
 &ensp;&ensp;&ensp;&ensp;该篇文章的作者分别来自斯坦福大学、马萨诸塞大学阿姆斯特分校以及谷歌大脑部门，其主要工作是在谷歌完成的。这篇文章的想法非常有意思，他们想使用VAE（varationalautoencoder的简称）学习到一个更连续的句子空间。下图所示，作者使用了单层的LSTM 模型作为encoder（编码器）和decoder（解码器），并使用高斯先验作为regularizer（正规化项），形成一个序列的自动编码器。比起一般的编码解码框架得到的句子编码往往只会记住一些孤立的点，VAE框架学到的可以想象成是一个椭圆形区域，这样可以更好地充满整个空间。我的理解是，VAE框架将贝叶斯理论与深度神经网络相结合，在优化生成下一个词的目标的同时，也优化了跟先验有关的一些目标（例如KL cost和crossentropy两项，细节请参考论文），使对一个整句的表达更好。<br>
 <div align=center><img width="440" src="https://github.com/yinizhilian/NLP_Share/blob/master/18628169-30b0ba1dac9218da.png"/></div>
 
-&ensp;&ensp;&ensp;&ensp;4、[（NAACL2018）A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
+#### 自然语言生成（NLG）论文整理
+&ensp;&ensp;&ensp;&ensp;1、[（NAACL2018）A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;自然语言生成是生成对话系统和会话代理的核心。 本文首先描述了一个集成的神经语言生成器，并提出了几种新的数据表示和扩充方法，在我们的模型中产生了比较好的结果。 我们在餐厅，电视和笔记本电脑领域的三个数据集上测试模型，并报告我们最佳模型的客观和主观评估。 使用一系列自动度量标准以及人工评估器，我们表明我们的方法比相同数据集上的最新模型获得更好的结果。本文的工作主要建立在成功的注意力+编解码器框架的基础上，用于序列到序列学习并通过集成扩展它。 我们探索了一个独立于域的slot aligner的可行性，它可以应用于任何数据集，无论其大小如何，并且reranking task之外。 我们还解决了由于去词语化而导致的一些挑战，以提高表面实现的质量，同时保留神经模型的生成能力。<br>
 
-&ensp;&ensp;&ensp;&ensp;5、[(AAAI 2017)SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;2、[(AAAI 2017)SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
  &ensp;&ensp;&ensp;&ensp;作为一种新的生成模型训练方法，利用判别模型指导生成模型训练的生成对抗网(GAN)在生成实值数据方面取得了很大的成功。但是，当目标是生成离散标记序列时，它有局限性。一个主要原因是生成模型的离散输出使得梯度更新难以从判别模型传递到生成模型。此外，判别模型只能对一个完整的序列进行评价，而对于一个部分生成的序列，一旦生成了整个序列，平衡它当前的分数和未来的分数是不容易的。在本文中，我们提出了一个序列生成框架，称为SeqGAN来解决这些问题。SeqGAN在RL中将数据生成器建模为随机策略，通过直接执行梯度策略更新来绕过生成器的微分问题。RL奖励信号来自于根据完整序列判断的GAN鉴别器，并通过蒙特卡罗搜索返回到中间状态-动作步骤。对合成数据和实际任务的大量实验表明，在强基线上有显著的改进。<br>
  
-&ensp;&ensp;&ensp;&ensp;6、[（ICML 2016）Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;3、[（ICML 2016）Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;这篇文章的内容是利用GAN来做根据句子合成图像的任务。在之前的GAN文章，都是利用类标签作为条件去合成图像，这篇文章首次提出利用GAN来实现根据句子描述合成图像。根据句子描述合成图像的任务与其反过程相比（Image caption：给定一张图像，自动生成一句话来描述这张图），Image caption可以转化为根据图片内容和前面的词去预测下一个词，但是对于合成图像，可能有很多种像素的排列都能够表现出当前描述的内容，所以比较困难。要解决句子描述问题，要从两个子问题入手：一是学习好的文本表示，让模型能够准确地捕捉到文本描述信息；二是合成比较真实的图像。<br>
 
-&ensp;&ensp;&ensp;&ensp;7、[（ACL 2019）Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation,](https://www.aclweb.org/anthology/P19-1192)**中文诗歌生成【微信AI团队】**<br>
+&ensp;&ensp;&ensp;&ensp;4、[（ACL 2019）Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation,](https://www.aclweb.org/anthology/P19-1192)**中文诗歌生成【微信AI团队】**<br>
 &ensp;&ensp;&ensp;&ensp;为了将修辞学应用到中文汉语诗歌的生成上，本文提出了一种用于现代汉语诗歌生成的修辞控制编码器。我们的模型依赖于一个连续的潜在变量修辞控制器在编码器中捕获各种修辞模式，然后结合基于修辞的混合物，生成现代汉语诗歌。在隐喻、人格化、自动化的评估方面，我们的模型相比于最先进的基线具有很大的优势，并且人工评估显示，我们的模型生成的诗歌在流畅性、连贯性、意义和修辞美学方面都优于基本方法。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054495<br>
 
-&ensp;&ensp;&ensp;&ensp;7、[（ACL 2019）Boosting Dialog Response Generation)**会话响应生成【美国卡耐基梅隆大学】**<br>
+&ensp;&ensp;&ensp;&ensp;5、[（ACL 2019）Boosting Dialog Response Generation)](https://www.aclweb.org/anthology/P19-1005)**会话响应生成【美国卡耐基梅隆大学】**<br>
 &ensp;&ensp;&ensp;&ensp;神经模型已成为对话响应生成的重要方法之一。然而，它们始终倾向于在语料库中生成最常见和通用的响应。针对这一问题，我们设计了一种基于boost的迭代训练过程和集成方法。该方法以不同的训练和解码范式为基础，包括基于互信息的解码和基于奖励增强的最大似然学习。实证结果表明，本文方法可以显著提高所有基本模型所产生的响应的多样性和相关性，并得到客观测量和人类评价的支持。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054452<br>
 
-
+&ensp;&ensp;&ensp;&ensp;6、[（ACL 2019）This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation.)](https://www.aclweb.org/anthology/P19-1043)**电子邮件主题生成【美国耶鲁大学】**<br>
+&ensp;&ensp;&ensp;&ensp;提出并研究了电子邮件主题行生成任务:从电子邮件正文中自动生成电子邮件主题行。我们为这个任务创建了第一个数据集，并发现电子邮件主题行生成非常抽象，这与新闻标题生成或新闻单个文档摘要不同。然后，我们开发了一种新的深度学习方法，并将其与几种基线以及最新的最先进的文本摘要系统进行了比较。我们还研究了几种基于人类判断相关性的自动评价指标的有效性，并提出了一种新的自动评价指标。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054826<br>
 
 ## 未完待续。。。
 
