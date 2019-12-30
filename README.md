@@ -55,6 +55,12 @@
 &ensp;&ensp;&ensp;&ensp;7、[（ACL 2019）Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491v1.pdf)**基于知识库的感知对话生成【腾讯AI Lab】**<br>
 &ensp;&ensp;&ensp;&ensp;本文的主要贡献有：1、提出了一种新的知识感知对话生成模型TransDG，该模型将知识库中的问题理解能力和事实提取能力转化为后理解能力和知识库中的事实知识选择能力。2、提出了一种多步译码策略，该策略能够捕捉到信息与响应之间的信息连接。第一步解码器产生的post和draft响应都与KB中的相关事实相匹配，使得第二步解码器产生的最终响应相对于post更合适、更合理。3、提出了一种响应引导注意机制，利用k-最佳响应候选项引导模型关注相关特征。4、在真实对话数据集上的大量实验表明，我们的模型在定量和定性两方面都优于比较方法。中文解读可见：https://zhuanlan.zhihu.com/p/99203505<br>
 
+&ensp;&ensp;&ensp;&ensp;8、[（ICML 2019）MASS: Masked Sequence to Sequence Pre-training](https://arxiv.org/pdf/1905.02450.pdf)**序列到序列自然语言生成（含源码）【微软亚洲研究院】**<br>
+&ensp;&ensp;&ensp;&ensp;微软亚洲研究院的研究员在ICML 2019上提出了一个全新的通用预训练方法MASS，在序列到序列的自然语言生成任务中全面超越BERT和GPT。BERT通常只训练一个编码器用于自然语言理解，而GPT的语言模型通常是训练一个解码器。如果要将BERT或者GPT用于序列到序列的自然语言生成任务，通常只有分开预训练编码器和解码器，因此编码器-注意力-解码器结构没有被联合训练，注意力机制也不会被预训练，而解码器对编码器的注意力机制在这类任务中非常重要，因此BERT和GPT在这类任务中只能达到次优效果。源码地址：https://github.com/microsoft/MASS<br>
+中文解读可见：https://zhuanlan.zhihu.com/p/65346812<br>
+
+
+
 ## 未完待续。。。
 
 
