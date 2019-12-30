@@ -46,27 +46,31 @@
 &ensp;&ensp;&ensp;&ensp;这篇文章的内容是利用GAN来做根据句子合成图像的任务。在之前的GAN文章，都是利用类标签作为条件去合成图像，这篇文章首次提出利用GAN来实现根据句子描述合成图像。根据句子描述合成图像的任务与其反过程相比（Image caption：给定一张图像，自动生成一句话来描述这张图），Image caption可以转化为根据图片内容和前面的词去预测下一个词，但是对于合成图像，可能有很多种像素的排列都能够表现出当前描述的内容，所以比较困难。要解决句子描述问题，要从两个子问题入手：一是学习好的文本表示，让模型能够准确地捕捉到文本描述信息；二是合成比较真实的图像。<br>
 
 &ensp;&ensp;&ensp;&ensp;4、[（ACL 2019）Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation,](https://www.aclweb.org/anthology/P19-1192)**中文诗歌生成【微信AI团队】**<br>
-&ensp;&ensp;&ensp;&ensp;为了将修辞学应用到中文汉语诗歌的生成上，本文提出了一种用于现代汉语诗歌生成的修辞控制编码器。我们的模型依赖于一个连续的潜在变量修辞控制器在编码器中捕获各种修辞模式，然后结合基于修辞的混合物，生成现代汉语诗歌。在隐喻、人格化、自动化的评估方面，我们的模型相比于最先进的基线具有很大的优势，并且人工评估显示，我们的模型生成的诗歌在流畅性、连贯性、意义和修辞美学方面都优于基本方法。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054495<br>
+&ensp;&ensp;&ensp;&ensp;为了将修辞学应用到中文汉语诗歌的生成上，本文提出了一种用于现代汉语诗歌生成的修辞控制编码器。我们的模型依赖于一个连续的潜在变量修辞控制器在编码器中捕获各种修辞模式，然后结合基于修辞的混合物，生成现代汉语诗歌。在隐喻、人格化、自动化的评估方面，我们的模型相比于最先进的基线具有很大的优势，并且人工评估显示，我们的模型生成的诗歌在流畅性、连贯性、意义和修辞美学方面都优于基本方法。<br>
+中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054495<br>
 
 &ensp;&ensp;&ensp;&ensp;5、[（ACL 2019）Boosting Dialog Response Generation)](https://www.aclweb.org/anthology/P19-1005)**会话响应生成【美国卡耐基梅隆大学】**<br>
-&ensp;&ensp;&ensp;&ensp;神经模型已成为对话响应生成的重要方法之一。然而，它们始终倾向于在语料库中生成最常见和通用的响应。针对这一问题，我们设计了一种基于boost的迭代训练过程和集成方法。该方法以不同的训练和解码范式为基础，包括基于互信息的解码和基于奖励增强的最大似然学习。实证结果表明，本文方法可以显著提高所有基本模型所产生的响应的多样性和相关性，并得到客观测量和人类评价的支持。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054452<br>
+&ensp;&ensp;&ensp;&ensp;神经模型已成为对话响应生成的重要方法之一。然而，它们始终倾向于在语料库中生成最常见和通用的响应。针对这一问题，我们设计了一种基于boost的迭代训练过程和集成方法。该方法以不同的训练和解码范式为基础，包括基于互信息的解码和基于奖励增强的最大似然学习。实证结果表明，本文方法可以显著提高所有基本模型所产生的响应的多样性和相关性，并得到客观测量和人类评价的支持。<br>
+中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054452<br>
 
 &ensp;&ensp;&ensp;&ensp;6、[（ACL 2019）This Email Could Save Your Life: Introducing the Task of Email Subject Line Generation.)](https://www.aclweb.org/anthology/P19-1043)**电子邮件主题生成【美国耶鲁大学】**<br>
-&ensp;&ensp;&ensp;&ensp;提出并研究了电子邮件主题行生成任务:从电子邮件正文中自动生成电子邮件主题行。我们为这个任务创建了第一个数据集，并发现电子邮件主题行生成非常抽象，这与新闻标题生成或新闻单个文档摘要不同。然后，我们开发了一种新的深度学习方法，并将其与几种基线以及最新的最先进的文本摘要系统进行了比较。我们还研究了几种基于人类判断相关性的自动评价指标的有效性，并提出了一种新的自动评价指标。中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054826<br>
+&ensp;&ensp;&ensp;&ensp;提出并研究了电子邮件主题行生成任务:从电子邮件正文中自动生成电子邮件主题行。我们为这个任务创建了第一个数据集，并发现电子邮件主题行生成非常抽象，这与新闻标题生成或新闻单个文档摘要不同。然后，我们开发了一种新的深度学习方法，并将其与几种基线以及最新的最先进的文本摘要系统进行了比较。我们还研究了几种基于人类判断相关性的自动评价指标的有效性，并提出了一种新的自动评价指标。<br>
+中文解读可见：https://blog.csdn.net/yinizhilianlove/article/details/100054826<br>
 
 &ensp;&ensp;&ensp;&ensp;7、[（ACL 2019）Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering](https://arxiv.org/pdf/1912.07491v1.pdf)**基于知识库的感知对话生成【腾讯AI Lab】**<br>
-&ensp;&ensp;&ensp;&ensp;本文的主要贡献有：1、提出了一种新的知识感知对话生成模型TransDG，该模型将知识库中的问题理解能力和事实提取能力转化为后理解能力和知识库中的事实知识选择能力。2、提出了一种多步译码策略，该策略能够捕捉到信息与响应之间的信息连接。第一步解码器产生的post和draft响应都与KB中的相关事实相匹配，使得第二步解码器产生的最终响应相对于post更合适、更合理。3、提出了一种响应引导注意机制，利用k-最佳响应候选项引导模型关注相关特征。4、在真实对话数据集上的大量实验表明，我们的模型在定量和定性两方面都优于比较方法。中文解读可见：https://zhuanlan.zhihu.com/p/99203505<br>
+&ensp;&ensp;&ensp;&ensp;本文的主要贡献有：1、提出了一种新的知识感知对话生成模型TransDG，该模型将知识库中的问题理解能力和事实提取能力转化为后理解能力和知识库中的事实知识选择能力。2、提出了一种多步译码策略，该策略能够捕捉到信息与响应之间的信息连接。第一步解码器产生的post和draft响应都与KB中的相关事实相匹配，使得第二步解码器产生的最终响应相对于post更合适、更合理。3、提出了一种响应引导注意机制，利用k-最佳响应候选项引导模型关注相关特征。4、在真实对话数据集上的大量实验表明，我们的模型在定量和定性两方面都优于比较方法。<br>
+中文解读可见：https://zhuanlan.zhihu.com/p/99203505<br>
 
 &ensp;&ensp;&ensp;&ensp;8、[（ICML 2019）MASS: Masked Sequence to Sequence Pre-training](https://arxiv.org/pdf/1905.02450.pdf)**序列到序列自然语言生成（含源码）【微软亚洲研究院】**<br>
 &ensp;&ensp;&ensp;&ensp;微软亚洲研究院的研究员在ICML 2019上提出了一个全新的通用预训练方法MASS，在序列到序列的自然语言生成任务中全面超越BERT和GPT。BERT通常只训练一个编码器用于自然语言理解，而GPT的语言模型通常是训练一个解码器。如果要将BERT或者GPT用于序列到序列的自然语言生成任务，通常只有分开预训练编码器和解码器，因此编码器-注意力-解码器结构没有被联合训练，注意力机制也不会被预训练，而解码器对编码器的注意力机制在这类任务中非常重要，因此BERT和GPT在这类任务中只能达到次优效果。源码地址：https://github.com/microsoft/MASS<br>
 中文解读可见：https://zhuanlan.zhihu.com/p/65346812<br>
 
 &ensp;&ensp;&ensp;&ensp;9、[（CoNLL 2019）Pretraining-Based Natural Language Generation for Text Summarization](https://arxiv.org/pdf/1902.09243.pdf)**文摘生成【国防科大&微软亚洲研究院】**<br>
-&ensp;&ensp;&ensp;&ensp;本文提出了一种新的基于预训练的编码-解码器框架，该框架可以根据输入序列以两阶段的方式生成输出序列。对于我们模型的编码器，我们使用BERT将输入序列编码到上下文表示中。对于解码器，在我们的模型中有两个阶段，在第一个阶段，我们使用一个基于变压器的解码器来产生一个草稿输出序列。在第二阶段，我们对草稿序列中的每个单词进行掩码并将其提供给BERT，然后结合输入序列和BERT生成的草稿表示，我们使用一个基于转换的解码器来预测每个掩码位置的细化单词。据我们所知，我们的方法是第一个将BERT应用于文本生成任务的方法。作为这一方向的第一步，我们评估了我们提出的方法对文本摘要任务。
+&ensp;&ensp;&ensp;&ensp;本文提出了一种新的基于预训练的编码-解码器框架，该框架可以根据输入序列以两阶段的方式生成输出序列。对于我们模型的编码器，我们使用BERT将输入序列编码到上下文表示中。对于解码器，在我们的模型中有两个阶段，在第一个阶段，我们使用一个基于变压器的解码器来产生一个草稿输出序列。在第二阶段，我们对草稿序列中的每个单词进行掩码并将其提供给BERT，然后结合输入序列和BERT生成的草稿表示，我们使用一个基于转换的解码器来预测每个掩码位置的细化单词。据我们所知，我们的方法是第一个将BERT应用于文本生成任务的方法。作为这一方向的第一步，我们评估了我们提出的方法对文本摘要任务。<br>
 中文解读可见：https://www.cnblogs.com/lauspectrum/p/10961112.html<br>
 
 &ensp;&ensp;&ensp;&ensp;10、[（NeurIPS 2019）Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)**文摘生成【微软研究院】**<br>
-&ensp;&ensp;&ensp;&ensp;论文提出了一种新型的统一的预训练语言模型（UniLM），它既可以针对自然语言理解任务进行微调，也能用于自然语言生成任务。这个模型使用了三种类型的语言建模任务进行预训练：单向模型、双向模型、序列到序列预测模型。其统一建模的实现使用了共享的 Transformer 网络，并且还使用了特定的自注意掩码来控制预测条件所处的上下文。在 GLUE 基准以及 SQuAD 2.0 和 CoQA 问答任务上，UniLM 优于 BERT。此外，UniLM 在五个自然语言生成数据集上成为了新的当前最佳，包括将 CNN/DailyMail 抽象式摘要 ROUGE-L 结果提升至 40.51（2.04 的绝对改善）、将 Gigaword 抽象式摘要 ROUGE-L 结果提升至 35.75（0.86 的绝对改善）、将 CoQA 生成式问答 F1 分数提升至 82.5（37.1 的绝对改善）、将 SQuAD 问题生成 BLEU-4 结果提升至 22.12（3.75 的绝对改善）、将 DSTC7 基于文档的对话响应生成 NIST-4 结果提升至 2.67（人类表现为 2.65）。源码地址：https://github.com/microsoft/unilm
+&ensp;&ensp;&ensp;&ensp;论文提出了一种新型的统一的预训练语言模型（UniLM），它既可以针对自然语言理解任务进行微调，也能用于自然语言生成任务。这个模型使用了三种类型的语言建模任务进行预训练：单向模型、双向模型、序列到序列预测模型。其统一建模的实现使用了共享的 Transformer 网络，并且还使用了特定的自注意掩码来控制预测条件所处的上下文。在 GLUE 基准以及 SQuAD 2.0 和 CoQA 问答任务上，UniLM 优于 BERT。此外，UniLM 在五个自然语言生成数据集上成为了新的当前最佳，包括将 CNN/DailyMail 抽象式摘要 ROUGE-L 结果提升至 40.51（2.04 的绝对改善）、将 Gigaword 抽象式摘要 ROUGE-L 结果提升至 35.75（0.86 的绝对改善）、将 CoQA 生成式问答 F1 分数提升至 82.5（37.1 的绝对改善）、将 SQuAD 问题生成 BLEU-4 结果提升至 22.12（3.75 的绝对改善）、将 DSTC7 基于文档的对话响应生成 NIST-4 结果提升至 2.67（人类表现为 2.65）。源码地址：https://github.com/microsoft/unilm <br>
 中文解读可见：https://zhuanlan.zhihu.com/p/96020318<br>
 
 ## 未完待续。。。
