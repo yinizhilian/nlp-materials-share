@@ -1,3 +1,7 @@
+各位NLPer，因实验室要求，马上要入NLP的深坑，所以现在开始看NLP相关的内容，一边查资料一边整理并与大家分享，希望也能帮到你。如果您觉得有用，给个Star吧。<br>
+知乎地址：[ShuYini](https://www.zhihu.com/people/wangjini521/activities)<br>
+微信公众号:[AINLPer](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=100000044&idx=1&sn=0c1a7119492d960383a02a3084589b85&chksm=7ac396f04db41fe69a0d1bac89b34c9c92b37602fe80107b8cf589e8b62288e3c1a83fa074ce&mpshare=1&scene=23&srcid=&sharer_sharetime=1577713726026&sharer_shareid=eacf0e57018e0f1e44bbc3e3d22d8fd2#rd)<br>
+
 # 自然语言生成(NLG)
 #### **什么是自然语言生成(NLG)?**<br>
 &ensp;&ensp;&ensp;&ensp;自然语言生成(NLG)是一种语言技术，其主要目的是构建能够“写”的软件系统的技术，即能够用汉语、英语等其他人类语言生成解释、摘要、叙述等。具体来说就是计算机的“编写语言”，它将结构化数据转换为文本，以人类语言表达。即能够根据一些关键信息及其在机器内部的表达形式，经过一个规划过程，来自动生成一段高质量的自然语言文本。NLG用于Email、手机短信，它可以为您自动创建答复；NLG用于图标说明时，可以根据公司数据自动生成图标说明。前段时间在一个有趣的用例中，美联社利用自然语言生成成功的从公司收益报表中生成了报告。这意味着他们不再需要人类消耗他们的时间和精力去解决这些问题。更重要的是，NLG一旦被完美设置就会自动生成数以千计的报告。<br>
