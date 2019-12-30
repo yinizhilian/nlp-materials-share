@@ -29,8 +29,7 @@
 详细中文解释可见：https://www.cnblogs.com/DjangoBlog/p/7270445.html<br>
 &ensp;&ensp;&ensp;&ensp;3、[谷歌人工智能写诗](https://arxiv.org/pdf/1511.06349.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;该篇文章的作者分别来自斯坦福大学、马萨诸塞大学阿姆斯特分校以及谷歌大脑部门，其主要工作是在谷歌完成的。这篇文章的想法非常有意思，他们想使用VAE（varationalautoencoder的简称）学习到一个更连续的句子空间。下图所示，作者使用了单层的LSTM 模型作为encoder（编码器）和decoder（解码器），并使用高斯先验作为regularizer（正规化项），形成一个序列的自动编码器。比起一般的编码解码框架得到的句子编码往往只会记住一些孤立的点，VAE框架学到的可以想象成是一个椭圆形区域，这样可以更好地充满整个空间。我的理解是，VAE框架将贝叶斯理论与深度神经网络相结合，在优化生成下一个词的目标的同时，也优化了跟先验有关的一些目标（例如KL cost和crossentropy两项，细节请参考论文），使对一个整句的表达更好。
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![image.png](https://upload-images.jianshu.io/upload_images/18628169-30b0ba1dac9218da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)
-![image.png](https://upload-images.jianshu.io/upload_images/18628169-30b0ba1dac9218da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![image.png](https://upload-images.jianshu.io/upload_images/18628169-30b0ba1dac9218da.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
 &ensp;&ensp;&ensp;&ensp;1、[A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;2、[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
