@@ -42,6 +42,8 @@
 &ensp;&ensp;&ensp;&ensp;6、[（ICML 2016）Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;这篇文章的内容是利用GAN来做根据句子合成图像的任务。在之前的GAN文章，都是利用类标签作为条件去合成图像，这篇文章首次提出利用GAN来实现根据句子描述合成图像。根据句子描述合成图像的任务与其反过程相比（Image caption：给定一张图像，自动生成一句话来描述这张图），Image caption可以转化为根据图片内容和前面的词去预测下一个词，但是对于合成图像，可能有很多种像素的排列都能够表现出当前描述的内容，所以比较困难。要解决句子描述问题，要从两个子问题入手：一是学习好的文本表示，让模型能够准确地捕捉到文本描述信息；二是合成比较真实的图像。<br>
 
+&ensp;&ensp;&ensp;&ensp;7、[（ACL 2019）Rhetorically Controlled Encoder-Decoder for Modern Chinese Poetry Generation,](https://www.aclweb.org/anthology/P19-1192)**中文诗歌生成【微信AI团队】**<br>
+&ensp;&ensp;&ensp;&ensp;为了将修辞学应用到中文汉语诗歌的生成上，本文提出了一种用于现代汉语诗歌生成的修辞控制编码器。我们的模型依赖于一个连续的潜在变量修辞控制器在编码器中捕获各种修辞模式，然后结合基于修辞的混合物，生成现代汉语诗歌。在隐喻、人格化、自动化的评估方面，我们的模型相比于最先进的基线具有很大的优势，并且人工评估显示，我们的模型生成的诗歌在流畅性、连贯性、意义和修辞美学方面都优于基本方法。<br>
 
 
 ## 未完待续。。。
