@@ -69,9 +69,15 @@
 &ensp;&ensp;&ensp;&ensp;本文提出了一种新的基于预训练的编码-解码器框架，该框架可以根据输入序列以两阶段的方式生成输出序列。对于我们模型的编码器，我们使用BERT将输入序列编码到上下文表示中。对于解码器，在我们的模型中有两个阶段，在第一个阶段，我们使用一个基于变压器的解码器来产生一个草稿输出序列。在第二阶段，我们对草稿序列中的每个单词进行掩码并将其提供给BERT，然后结合输入序列和BERT生成的草稿表示，我们使用一个基于转换的解码器来预测每个掩码位置的细化单词。据我们所知，我们的方法是第一个将BERT应用于文本生成任务的方法。作为这一方向的第一步，我们评估了我们提出的方法对文本摘要任务。<br>
 中文解读可见：https://www.cnblogs.com/lauspectrum/p/10961112.html<br>
 
-&ensp;&ensp;&ensp;&ensp;10、[（NeurIPS 2019）Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)**文摘生成【微软研究院】**<br>
+&ensp;&ensp;&ensp;&ensp;10、[（NeurIPS 2019）Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)**NLU+NLG 统一与训练模型【微软研究院】**<br>
 &ensp;&ensp;&ensp;&ensp;论文提出了一种新型的统一的预训练语言模型（UniLM），它既可以针对自然语言理解任务进行微调，也能用于自然语言生成任务。这个模型使用了三种类型的语言建模任务进行预训练：单向模型、双向模型、序列到序列预测模型。其统一建模的实现使用了共享的 Transformer 网络，并且还使用了特定的自注意掩码来控制预测条件所处的上下文。在 GLUE 基准以及 SQuAD 2.0 和 CoQA 问答任务上，UniLM 优于 BERT。此外，UniLM 在五个自然语言生成数据集上成为了新的当前最佳，包括将 CNN/DailyMail 抽象式摘要 ROUGE-L 结果提升至 40.51（2.04 的绝对改善）、将 Gigaword 抽象式摘要 ROUGE-L 结果提升至 35.75（0.86 的绝对改善）、将 CoQA 生成式问答 F1 分数提升至 82.5（37.1 的绝对改善）、将 SQuAD 问题生成 BLEU-4 结果提升至 22.12（3.75 的绝对改善）、将 DSTC7 基于文档的对话响应生成 NIST-4 结果提升至 2.67（人类表现为 2.65）。源码地址：https://github.com/microsoft/unilm <br>
 中文解读可见：https://zhuanlan.zhihu.com/p/96020318<br>
+
+&ensp;&ensp;&ensp;&ensp;11、[(NAACL 2019)Unifying Human and Statistical Evaluation for Natural Language Generation 
+](https://arxiv.org/pdf/1904.02792.pdf)**生成语言自然度评估【美国斯坦福】**<br>
+&ensp;&ensp;&ensp;&ensp;我们该如何度量自然语言生成系统是否生成高质量和多样性的输出？人类评估可以捕捉质量，但是不能衡量多样性，因为这种方法不能分辨生成结果是不是简单地抄袭自训练集。但同时，基于统计的度量方法（即困惑度）能很好地捕捉多样性，但不能严格地度量质量，因为偶尔生成的低质量样本并不能得到充分的惩罚。在这篇论文中，我们提出了一个统一的框架以同时评估生成质量与多样性，它主要通过预测一句话到底是机器生成语言还是人类语言，从而给出预测的最优误差率。我们表示，该误差率能通过结合人类和统计评估高效地估计，我们将使用的评估度量称之为 HUSE。<br>
+源码地址：https://github.com/hughbzhang/HUSE <br>
+中文解读可见：https://zhuanlan.zhihu.com/p/63010816<br>
 
 ## 未完待续。。。
 
