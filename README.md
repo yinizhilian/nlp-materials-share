@@ -21,9 +21,12 @@
 &ensp;&ensp;&ensp;&ensp;[文本生成资源大列表](https://github.com/ChenChengKuan/awesome-text-generation),该资源主要整理列举了2018年EMNLP的优秀文本生成模型及应用案例（主要以Paper的形式给出）。其中主要包括：模型（GAN based、VAE based、Autoencoder based、Reinforcement learning based、Alternative decode objective、Tool and others）、应用（基于文本的强化学习、基于GAN的对抗学习等）。<br>
 
 #### 文本生成必读的几篇文章
-&ensp;&ensp;&ensp;&ensp;1、[Character based Recurrent Neural Network](https://github.com/karpathy/char-rnn)
+&ensp;&ensp;&ensp;&ensp;1、[Character based Recurrent Neural Network(内含源码)](https://github.com/karpathy/char-rnn)<br>
 &ensp;&ensp;&ensp;&ensp;该篇文章主要讲述了最基本的Char-RNN文本生成原理，具体如下图所示。以要让模型学习写出“hello”为例，Char-RNN的输入输出层都是以字符为单位。输入“h”，应该输出“e”；输入“e”，则应该输出后续的“l”。输入层我们可以用只有一个元素为1的向量来编码不同的字符，例如，h被编码为“1000”、“e”被编码为“0100”，而“l”被编码为“0010”。使用RNN的学习目标是，可以让生成的下一个字符尽量与训练样本里的目标输出一致。在图一的例子中，根据前两个字符产生的状态和第三个输入“l”预测出的下一个字符的向量为<0.1, 0.5, 1.9, -1.1>，最大的一维是第三维，对应的字符则为“0010”，正好是“l”。这就是一个正确的预测。但从第一个“h”得到的输出向量是第四维最大，对应的并不是“e”，这样就产生代价。学习的过程就是不断降低这个代价。学习到的模型，对任何输入字符可以很好地不断预测下一个字符，如此一来就能生成句子或段落。<br>
-![image.png](https://upload-images.jianshu.io/upload_images/18628169-f3208db19bb7cb01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![image.png](https://upload-images.jianshu.io/upload_images/18628169-f3208db19bb7cb01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)<br>
+&ensp;&ensp;&ensp;&ensp;2、[深度学习生成对话（诺亚方舟实验室--华为）](https://arxiv.org/pdf/1503.02364.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;这篇文章尝试用encoder-decoder（编码-解码）的框架解决短文本对话（Short Text Conversation，缩写为STC）的问题。虽然encoder-decoder框架已经被成功应用在机器翻译的任务中，但是对话与翻译不同，对应一个输入文本（post）往往有多种不同的应答（responses）。文中举了一个例子，一个人说“刚刚我吃了一个吞拿鱼三明治”，不同的应答可以是“天哪，才早晨11点”、“看起来很美味哟”或是“在哪里吃的”。这种一对多的情况在对话中很普遍也很自然。的确，不同的人会对同一句话做出不同的反应，即使是同一个人，如果每次回答都一模一样也是很无趣的。详细中文解释可见：https://www.cnblogs.com/DjangoBlog/p/7270445.html<br>
+
 
 &ensp;&ensp;&ensp;&ensp;1、[A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/pdf/1805.06553.pdf)<br>
 &ensp;&ensp;&ensp;&ensp;2、[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473.pdf)<br>
