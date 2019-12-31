@@ -25,7 +25,7 @@
 &ensp;&ensp;&ensp;&ensp;[万小军](https://wanxiaojun.github.io/)是北京大学王选计算机研究所研究员，主要研究领域有自然语言处理，文本挖掘，人工智能。它是语言计算与互联网挖掘研究室（从属北京大学王选计算机科学技术研究所）的负责人。该研究室以自然语言处理技术、数据挖掘技术与机器学习技术为基础，对互联网上多源异质的文本大数据进行智能分析与深度挖掘，为互联网搜索、舆情与情报分析、写稿与对话机器人等系统提供关键技术支撑，并从事计算机科学与人文社会科学的交叉科学研究。 研究室当前研究内容包括：1）语义理解：研制全新的语义分析系统实现对人类语言（尤其是汉语）的深层语义理解；2）机器写作：综合利用自动文摘与自然语言生成等技术让机器写出高质量的各类稿件；3）情感计算：针对多语言互联网文本实现高精度情感、立场与幽默分析；4）其他：兴趣技术探索。<br>
 
 ### 干货学习资源
-#### [文本生成资源大列表]((https://github.com/ChenChengKuan/awesome-text-generation))
+#### [文本生成资源大列表](https://github.com/ChenChengKuan/awesome-text-generation)
 &ensp;&ensp;&ensp;&ensp;该资源主要整理列举了2018年EMNLP的优秀文本生成模型及应用案例（主要以Paper的形式给出）。其中主要包括：模型（GAN based、VAE based、Autoencoder based、Reinforcement learning based、Alternative decode objective、Tool and others）、应用（基于文本的强化学习、基于GAN的对抗学习等）。<br>
 
 #### [自然语言处理NLP研究进展跟踪](https://github.com/sebastianruder/NLP-progress)
