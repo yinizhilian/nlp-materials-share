@@ -11,7 +11,7 @@
 
 &ensp;&ensp;&ensp;&ensp; **[「自然语言处理（NLP）」你必须要知道的八个国际顶级会议！](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247484203&idx=1&sn=3a7d89ff46816177c54cc5313ac95d91&chksm=fac394f7cdb41de1b0e371a2c6eb53a57262f5c2dfdafd42d6997c7c2afdfbd816343a7a5fd2&mpshare=1&scene=23&srcid=&sharer_sharetime=1577695086044&sharer_shareid=eacf0e57018e0f1e44bbc3e3d22d8fd2#rd)** 国际学术会议是一种学术影响度较高的会议，它具有国际性、权威性、高知识性、高互动性等特点，其参会者一般为科学家、学者、教师等。具有高学历的研究人员把它作为一种科研学术的交流方式，够为科研成果的发表和对科研学术论文的研讨提供一种途径 ；同时也能促进科研学术理论水平的提高。针对自然语言处理方向比较重要的几个会议有：ACL、EMNLP、NACAL、CoNLL、COLING、ICLR、AAAI、NLPCC等。ACL、EMNLP、NAACL 和 COLING 可以说是 NLP 领域的四大顶会。其中 ACL、EMNLP、NAACL都是一家（均由 ACL）举办。ACL 、AAAI是 CCF 推荐A类国际学术会议，EMNLP 和 COLING 是B类，NAACL 、CoNLL、NLPCC则是C类。
 
-&ensp;&ensp;&ensp;&ensp; **[NLP（NLU+NLG）全球研究组织大汇总！](https://github.com/yinizhilian/NLP_Share/blob/master/%E7%9B%98%E7%82%B9--%E5%85%A8%E7%90%83NLP%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84.md)** 该资料主要盘点了全球（中国（香港、台湾）、北美、欧洲、亚洲其它国家）所有的研究NLP方向的组织。其中国内比较著名的有腾讯AI Lab、华为诺亚方舟实验室、微软亚洲研究院、哈工大机器智能与翻译研究室、复旦大学自然语言处理研究组等，北美最有名的要数The Stanford Natural Language Processing Group ，CS224N的课程就出自这里。
+&ensp;&ensp;&ensp;&ensp; **[「自然语言处理NLP（NLU+NLG）」全球研究组织大汇总！](https://github.com/yinizhilian/NLP_Share/blob/master/%E7%9B%98%E7%82%B9--%E5%85%A8%E7%90%83NLP%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84.md)** 该资料主要盘点了全球（中国（香港、台湾）、北美、欧洲、亚洲其它国家）所有的研究NLP方向的组织。其中国内比较著名的有腾讯AI Lab、华为诺亚方舟实验室、微软亚洲研究院、哈工大机器智能与翻译研究室、复旦大学自然语言处理研究组等，北美最有名的要数The Stanford Natural Language Processing Group ，CS224N的课程就出自这里。
     
 ## 资料分享
 ### 国内外知名大佬博客
