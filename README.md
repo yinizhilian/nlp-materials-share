@@ -85,6 +85,13 @@
 源码地址：https://github.com/hughbzhang/HUSE <br>
 中文解读可见：https://zhuanlan.zhihu.com/p/63010816<br>
 
+&ensp;&ensp;&ensp;&ensp;11、**统一预训练模型（NLG+NLU）**[(NeurIPS 2019)Unified Language Model Pre-training for
+Natural Language Understanding and Generation 
+](https://arxiv.org/pdf/1905.03197.pdf)<br>
+&ensp;&ensp;&ensp;&ensp;该论文提出了一种新型的统一的预训练语言模型（UniLM），它既可以针对自然语言理解任务进行微调，也能用于自然语言生成任务。这个模型使用了三种类型的语言建模任务进行预训练：单向模型、双向模型、序列到序列预测模型。其统一建模的实现使用了共享的 Transformer 网络，并且还使用了特定的自注意掩码来控制预测条件所处的上下文。在 GLUE 基准以及 SQuAD 2.0 和 CoQA 问答任务上，UniLM 优于 BERT<br>
+源码地址：https://github.com/microsoft/unilm <br>
+中文解读可见：[统一预训练模型（NLG+NLU）](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247484235&idx=1&sn=77c23d297f0731d2b737f00fdf21d4ac&chksm=fac39497cdb41d81e0081a5b8974f889ec5b44e43b47a058a89da6d223392f52f6b3f18a6eb9&mpshare=1&scene=23&srcid=&sharer_sharetime=1577802736778&sharer_shareid=eacf0e57018e0f1e44bbc3e3d22d8fd2#rd)<br>
+
 ## 未完待续。。。
 
 
