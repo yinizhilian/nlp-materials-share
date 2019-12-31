@@ -10,6 +10,8 @@
 &ensp;&ensp;&ensp;&ensp;NLG学术界每年都会召开会议，公布NLG的最新发现。这些会议是由[ACL SIGGEN](https://aclweb.org/aclwiki/SIGGEN)组织的，你可以查看其web页面以获取关于即将举行的活动的信息。在这些活动中提交的论文可以通过[ACL Anthology](https://www.aclweb.org/anthology/)在线获得。NLG的商业兴趣日益增长，其中大部分集中在数据到文本，即结合NLG和数据分析的系统，以产生摘要，解释等结构化数据.<br>
 
 &ensp;&ensp;&ensp;&ensp; **[「自然语言处理（NLP）」你必须要知道的八个国际顶级会议！](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247484203&idx=1&sn=3a7d89ff46816177c54cc5313ac95d91&chksm=fac394f7cdb41de1b0e371a2c6eb53a57262f5c2dfdafd42d6997c7c2afdfbd816343a7a5fd2&mpshare=1&scene=23&srcid=&sharer_sharetime=1577695086044&sharer_shareid=eacf0e57018e0f1e44bbc3e3d22d8fd2#rd)** 国际学术会议是一种学术影响度较高的会议，它具有国际性、权威性、高知识性、高互动性等特点，其参会者一般为科学家、学者、教师等。具有高学历的研究人员把它作为一种科研学术的交流方式，够为科研成果的发表和对科研学术论文的研讨提供一种途径 ；同时也能促进科研学术理论水平的提高。针对自然语言处理方向比较重要的几个会议有：ACL、EMNLP、NACAL、CoNLL、COLING、ICLR、AAAI、NLPCC等。ACL、EMNLP、NAACL 和 COLING 可以说是 NLP 领域的四大顶会。其中 ACL、EMNLP、NAACL都是一家（均由 ACL）举办。ACL 、AAAI是 CCF 推荐A类国际学术会议，EMNLP 和 COLING 是B类，NAACL 、CoNLL、NLPCC则是C类。
+
+&ensp;&ensp;&ensp;&ensp; **[NLP（NLU+NLG）全球研究组织大汇总！](https://github.com/yinizhilian/NLP_Share/blob/master/%E7%9B%98%E7%82%B9--%E5%85%A8%E7%90%83NLP%E7%A0%94%E7%A9%B6%E6%9C%BA%E6%9E%84.md)** 该资料主要盘点了全球所有的研究NLP方向的组织。
     
 ## 资料分享
 ### 国内外知名大佬博客
