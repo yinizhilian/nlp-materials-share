@@ -1,14 +1,22 @@
 ## 中国大陆地区
 
+### 工业界
+
 腾讯人工智能实验室（Tencent AI Lab） link: [https://ai.tencent.com/ailab/nlp/](https://ai.tencent.com/ailab/nlp/)
 
-苏州大学自然语言处理实验室 link: [http://nlp.suda.edu.cn/](http://nlp.suda.edu.cn/)
+头条人工智能实验室（Toutiao AI Lab） link: [http://lab.toutiao.com/](http://lab.toutiao.com/)
 
-苏州大学人类语言技术研究所 link: [http://hlt.suda.edu.cn/](http://hlt.suda.edu.cn/)
+百度自然语言处理 [https://nlp.baidu.com/homepage/index](https://nlp.baidu.com/homepage/index)
 
 微软亚洲研究院自然语言计算组 link: [https://www.microsoft.com/en-us/research/group/natural-language-computing/](https://www.microsoft.com/en-us/research/group/natural-language-computing/)
 
-头条人工智能实验室（Toutiao AI Lab） link: [http://lab.toutiao.com/](http://lab.toutiao.com/)
+搜狗实验室（Sogou Labs）[http://www.sogou.com/labs/](http://www.sogou.com/labs/)
+
+头条人工智能实验室（Toutiao AI Lab）[https://ailab.bytedance.com/](https://ailab.bytedance.com/)
+
+华为诺亚方舟实验室（Noah's Ark Lab）[http://www.noahlab.com.hk/#/home](http://www.noahlab.com.hk/#/home)
+
+### 学术界
 
 清华大学自然语言处理与社会人文计算实验室 link: [http://nlp.csai.tsinghua.edu.cn/site2/](http://nlp.csai.tsinghua.edu.cn/site2/)
 
@@ -37,6 +45,12 @@
 厦门大学智能科学与技术系自然语言处理实验室 link: [http://nlp.xmu.edu.cn/](http://nlp.xmu.edu.cn/)
 
 郑州大学自然语言处理实验室 link: [http://nlp.zzu.edu.cn/](http://nlp.zzu.edu.cn/)
+
+苏州大学自然语言处理实验室 link: [http://nlp.suda.edu.cn/](http://nlp.suda.edu.cn/)
+
+苏州大学人类语言技术研究所 link: [http://hlt.suda.edu.cn/](http://hlt.suda.edu.cn/)
+
+微软亚洲研究院自然语言计算组 link: [https://www.microsoft.com/en-us/research/group/natural-language-computing/](https://www.microsoft.com/en-us/research/group/natural-language-computing/)
 
 ## 中国 香港/澳门/台湾 地区：
 
@@ -137,11 +151,8 @@ Natural Language Processing Research Group at University of Utah link: [https://
 
 Natural Language Processing and Information Retrieval group at University of Pittsburgh link: [http://www.isp.pitt.edu/research/nlp-info-retrieval-group](http://www.isp.pitt.edu/research/nlp-info-retrieval-group)
 
-    
-
 Brown Laboratory for Linguistic Information Processing (BLLIP) link: [http://bllip.cs.brown.edu/](http://bllip.cs.brown.edu/) 
 
- 
 
 ## 欧洲
 
