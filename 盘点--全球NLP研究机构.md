@@ -40,139 +40,139 @@
 
 ## 中国 香港/澳门/台湾 地区：
 
-Huawei Noah’s Ark Lab      [http://www.noahlab.com.hk](http://www.noahlab.com.hk)
+Huawei Noah’s Ark Lab link: [http://www.noahlab.com.hk](http://www.noahlab.com.hk)
 
-CUHK Text Mining Group      [http://www1.se.cuhk.edu.hk/~textmine/](http://www1.se.cuhk.edu.hk/~textmine/)
+CUHK Text Mining Group link: [http://www1.se.cuhk.edu.hk/~textmine/](http://www1.se.cuhk.edu.hk/~textmine/)
 
-Social Media Mining Group at PolyU      [http://www4.comp.polyu.edu.hk/~cswjli/Group.html](http://www4.comp.polyu.edu.hk/~cswjli/Group.html)
+Social Media Mining Group at PolyU link: [http://www4.comp.polyu.edu.hk/~cswjli/Group.html](http://www4.comp.polyu.edu.hk/~cswjli/Group.html)
 
-Human Language Technology Center  at Hong Kong University of Science & Technology      [http://www.cse.ust.hk/~hltc/](http://www.cse.ust.hk/~hltc/)
+Human Language Technology Center  at Hong Kong University of Science & Technology link: [http://www.cse.ust.hk/~hltc/](http://www.cse.ust.hk/~hltc/)
 
-Natural Language Processing & Portuguese-Chinese Machine Translation Laboratory at University of Macau     [http://nlp2ct.cis.umac.mo/](http://nlp2ct.cis.umac.mo/)      
+Natural Language Processing & Portuguese-Chinese Machine Translation Laboratory at University of Macau link: [http://nlp2ct.cis.umac.mo/](http://nlp2ct.cis.umac.mo/)      
 
-Natural Language Processing Lab at National Taiwan University     [http://nlg.csie.ntu.edu.tw/](http://nlg.csie.ntu.edu.tw/)
+Natural Language Processing Lab at National Taiwan University link: [http://nlg.csie.ntu.edu.tw/](http://nlg.csie.ntu.edu.tw/)
 
 ## 新加坡 / 日本 / 以色列 / 澳大利亚：
 
-NUS Natural Language Processing Group      [http://www.comp.nus.edu.sg/~nlp/index.html](http://www.comp.nus.edu.sg/~nlp/index.html)
+NUS Natural Language Processing Group link: [http://www.comp.nus.edu.sg/~nlp/index.html](http://www.comp.nus.edu.sg/~nlp/index.html)
 
-NLP at Singapore University of Technology and Design      [http://people.sutd.edu.sg/~yue_zhang/](http://people.sutd.edu.sg/~yue_zhang/)
+NLP at Singapore University of Technology and Design link: [http://people.sutd.edu.sg/~yue_zhang/](http://people.sutd.edu.sg/~yue_zhang/)
 
-NLP and Big Data Research Group at Singapore University of Technology and Design       [http://www.statnlp.org/](http://www.statnlp.org/)
+NLP and Big Data Research Group at Singapore University of Technology and Design link: [http://www.statnlp.org/](http://www.statnlp.org/)
 
-Advanced Translation Technology Laboratory at National Institute of Information and Communications Technology (NICT)[http://att-astrec.nict.go.jp/en/](http://att-astrec.nict.go.jp/en/)
+Advanced Translation Technology Laboratory at National Institute of Information and Communications Technology (NICT) link: [http://att-astrec.nict.go.jp/en/](http://att-astrec.nict.go.jp/en/)
 
        
 
-Natural Language Processing Lab at Bar-Ilan University           [http://u.cs.biu.ac.il/~nlp/](http://u.cs.biu.ac.il/~nlp/)
+Natural Language Processing Lab at Bar-Ilan University link: [http://u.cs.biu.ac.il/~nlp/](http://u.cs.biu.ac.il/~nlp/)
 
-The University of Melbourne NLP Group       [http://hum.csse.unimelb.edu.au/nlp-group/](http://hum.csse.unimelb.edu.au/nlp-group/)
+The University of Melbourne NLP Group link: [http://hum.csse.unimelb.edu.au/nlp-group/](http://hum.csse.unimelb.edu.au/nlp-group/)
  
 
 ## 北美： 
 
-Natural Language Processing - Research at Google       https://research.google.com/pubs/NaturalLanguageProcessing.html
+Natural Language Processing - Research at Google link: [https://research.google.com/pubs/NaturalLanguageProcessing.html](https://research.google.com/pubs/NaturalLanguageProcessing.html)
 
-The Redmond-based Natural Language Processing group        http://research.microsoft.com/en-us/groups/nlp/
+The Redmond-based Natural Language Processing group link: [http://research.microsoft.com/en-us/groups/nlp/](http://research.microsoft.com/en-us/groups/nlp/)
 
-Facebook AI Research (FAIR)      https://research.fb.com
+Facebook AI Research (FAIR) link: [https://research.fb.com](https://research.fb.com)
 
-Thomas J. Watson Research Center -IBMResearch      http://researchweb.watson.ibm.com/labs/watson/index.shtml
+Thomas J. Watson Research Center -IBMResearch link: [http://researchweb.watson.ibm.com/labs/watson/index.shtml](http://researchweb.watson.ibm.com/labs/watson/index.shtml)
 
-The Stanford Natural Language Processing Group       http://nlp.stanford.edu/
+The Stanford Natural Language Processing Group link: [http://nlp.stanford.edu/](http://nlp.stanford.edu/)
 
-The Berkeley NLP Group      http://nlp.cs.berkeley.edu/index.shtml
+The Berkeley NLP Group link: [http://nlp.cs.berkeley.edu/index.shtml](http://nlp.cs.berkeley.edu/index.shtml)
 
-Natural Language Processing research at Columbia University      http://www1.cs.columbia.edu/nlp/index.cgi 
+Natural Language Processing research at Columbia University link: [http://www1.cs.columbia.edu/nlp/index.cgi](http://www1.cs.columbia.edu/nlp/index.cgi) 
 
-The Language Technologies Institute (LTI) at Carnegie Mellon University       http://www.lti.cs.cmu.edu/
+The Language Technologies Institute (LTI) at Carnegie Mellon University link: [http://www.lti.cs.cmu.edu/](http://www.lti.cs.cmu.edu/)
 
-Graham Neubig's lab at the Language Technologies Instititute of Carnegie Mellon University      http://www.cs.cmu.edu/~neulab/
+Graham Neubig's lab at the Language Technologies Instititute of Carnegie Mellon University link: [http://www.cs.cmu.edu/~neulab/](http://www.cs.cmu.edu/~neulab/)
 
-Algorithms for Computational Linguistics at City University of New York      http://acl.cs.qc.edu/
+Algorithms for Computational Linguistics at City University of New York link: [http://acl.cs.qc.edu/](http://acl.cs.qc.edu/)
 
-Algorithms for Computational Linguistics at Oregon State University      http://web.engr.oregonstate.edu/~huanlian/
+Algorithms for Computational Linguistics at Oregon State University link: [http://web.engr.oregonstate.edu/~huanlian/](http://web.engr.oregonstate.edu/~huanlian/)
 
-RPI Blender Lab       http://nlp.cs.rpi.edu/
+RPI Blender Lab link: [http://nlp.cs.rpi.edu/](http://nlp.cs.rpi.edu/)
 
-UC Santa Barbara Natural Language Processing Group      http://nlp.cs.ucsb.edu/
+UC Santa Barbara Natural Language Processing Group link: [http://nlp.cs.ucsb.edu/](http://nlp.cs.ucsb.edu/)
 
-The Natural Language Group at USC/ISI       http://nlg.isi.edu/
+The Natural Language Group at USC/ISI link: [http://nlg.isi.edu/](http://nlg.isi.edu/)
 
-Natural Language Processing Group at University of Notre Dame       http://nlp.nd.edu/
+Natural Language Processing Group at University of Notre Dame link: [http://nlp.nd.edu/](http://nlp.nd.edu/)
 
-Artificial Intelligence Research Group at Harvard       http://www.eecs.harvard.edu/ai/
+Artificial Intelligence Research Group at Harvard link: [http://www.eecs.harvard.edu/ai/](http://www.eecs.harvard.edu/ai/)
 
-The Harvard natural-language processing group       http://nlp.seas.harvard.edu/
+The Harvard natural-language processing group link: [http://nlp.seas.harvard.edu/](http://nlp.seas.harvard.edu/)
 
-Computational Linguistics and Information Processing at Maryland       https://wiki.umiacs.umd.edu/clip/index.php/Main_Page
+Computational Linguistics and Information Processing at Maryland link: [https://wiki.umiacs.umd.edu/clip/index.php/Main_Page](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page)
 
-Language and Speech Processing at Johns Hopkins University       http://www.clsp.jhu.edu/about-clsp/
+Language and Speech Processing at Johns Hopkins University link: [http://www.clsp.jhu.edu/about-clsp/](http://www.clsp.jhu.edu/about-clsp/)
 
-Human Language Technology Center of Excellence at Johns Hopkins University       http://hltcoe.jhu.edu/
+Human Language Technology Center of Excellence at Johns Hopkins University link: [http://hltcoe.jhu.edu/](http://hltcoe.jhu.edu/)
 
-Machine Translation Group at The Johns Hopkins University      http://www.statmt.org/jhu/
+Machine Translation Group at The Johns Hopkins University link: [http://www.statmt.org/jhu/](http://www.statmt.org/jhu/)
 
-Machine Translation Research at Rochester     https://www.cs.rochester.edu/~gildea/mt/
+Machine Translation Research at Rochester link: [https://www.cs.rochester.edu/~gildea/mt/](https://www.cs.rochester.edu/~gildea/mt/)
 
-NLP @ University of Illinois at Urbana-Champaign      http://nlp.cs.illinois.edu/
+NLP @ University of Illinois at Urbana-Champaign link: [http://nlp.cs.illinois.edu/](http://nlp.cs.illinois.edu/)
 
-UIC Natural Language Processing Laboratory          http://nlp.cs.uic.edu/
+UIC Natural Language Processing Laboratory link: [http://nlp.cs.uic.edu/](http://nlp.cs.uic.edu/)
 
-Human Language Technology Research Institute at The University of Texas at Dallas     http://www.hlt.utdallas.edu/
+Human Language Technology Research Institute at The University of Texas at Dallas link: [http://www.hlt.utdallas.edu/](http://www.hlt.utdallas.edu/)
 
-Natural Language Processing Group at MIT CSAIL     http://nlp.csail.mit.edu/
+Natural Language Processing Group at MIT CSAIL link: [http://nlp.csail.mit.edu/](http://nlp.csail.mit.edu/)
 
-Human Language Technology Research Institute at University of Texas at Dallas     http://www.hlt.utdallas.edu/
+Human Language Technology Research Institute at University of Texas at Dallas link: [http://www.hlt.utdallas.edu/](http://www.hlt.utdallas.edu/)
 
-Natural Language Processing Group at Texas A&M University     http://nlp.cs.tamu.edu/
+Natural Language Processing Group at Texas A&M University link: [http://nlp.cs.tamu.edu/](http://nlp.cs.tamu.edu/)
 
-The Natural Language Processing Group at Northeastern University     https://nlp.ccis.northeastern.edu/
+The Natural Language Processing Group at Northeastern University link: [https://nlp.ccis.northeastern.edu/](https://nlp.ccis.northeastern.edu/)
 
-Cornell NLP group      https://confluence.cornell.edu/display/NLP/Home/
+Cornell NLP group link: [https://confluence.cornell.edu/display/NLP/Home/](https://confluence.cornell.edu/display/NLP/Home/)
 
-Natural Language Processing group at University Of Washington      https://www.cs.washington.edu/research/nlp
+Natural Language Processing group at University Of Washington link: [https://www.cs.washington.edu/research/nlp](https://www.cs.washington.edu/research/nlp)
 
-Natural Language Processing Research Group at University of Utah     https://www.cs.utah.edu/nlp/
+Natural Language Processing Research Group at University of Utah link: [https://www.cs.utah.edu/nlp/](https://www.cs.utah.edu/nlp/)
 
-Natural Language Processing and Information Retrieval group at University of Pittsburgh
+Natural Language Processing and Information Retrieval group at University of Pittsburgh link: [http://www.isp.pitt.edu/research/nlp-info-retrieval-group](http://www.isp.pitt.edu/research/nlp-info-retrieval-group)
 
-    http://www.isp.pitt.edu/research/nlp-info-retrieval-group
+    
 
-Brown Laboratory for Linguistic Information Processing (BLLIP)     http://bllip.cs.brown.edu/ 
+Brown Laboratory for Linguistic Information Processing (BLLIP) link: [http://bllip.cs.brown.edu/](http://bllip.cs.brown.edu/) 
 
  
 
-欧洲：
+## 欧洲
 
-Natural Language and Information Processing Research Group at University of Cambridge        http://www.cl.cam.ac.uk/research/nl/
+Natural Language and Information Processing Research Group at University of Cambridge link: [http://www.cl.cam.ac.uk/research/nl/](http://www.cl.cam.ac.uk/research/nl/)
 
-The Computational Linguistics Group at Oxford University       http://www.clg.ox.ac.uk/
+The Computational Linguistics Group at Oxford University link: [http://www.clg.ox.ac.uk/](http://www.clg.ox.ac.uk/)
 
-Human Language Technology and Pattern Recognition Group at the RWTH Aachen      https://www-i6.informatik.rwth-aachen.de/
+Human Language Technology and Pattern Recognition Group at the RWTH Aachen link: [https://www-i6.informatik.rwth-aachen.de/](https://www-i6.informatik.rwth-aachen.de/)
 
-The Natural Language Processing Group at the University of Edinburgh (EdinburghNLP)      http://edinburghnlp.inf.ed.ac.uk/
+The Natural Language Processing Group at the University of Edinburgh (EdinburghNLP) link: [http://edinburghnlp.inf.ed.ac.uk/](http://edinburghnlp.inf.ed.ac.uk/)
 
-Statistical Machine Translation Group at the University of Edinburgh      http://www.statmt.org/ued/?n=Public.HomePage
+Statistical Machine Translation Group at the University of Edinburgh link: [http://www.statmt.org/ued/?n=Public.HomePage](http://www.statmt.org/ued/?n=Public.HomePage)
 
-Natural Language Processing Research Group at The University of Sheffield     http://nlp.shef.ac.uk/
+Natural Language Processing Research Group at The University of Sheffield link: [http://nlp.shef.ac.uk/](http://nlp.shef.ac.uk/)
 
-Speech Research Group at University of Cambridge     http://mi.eng.cam.ac.uk/Main/Speech/
+Speech Research Group at University of Cambridge link: [http://mi.eng.cam.ac.uk/Main/Speech/](http://mi.eng.cam.ac.uk/Main/Speech/)
 
-Statistical Machine Translation Group at the University of Cambridge     http://divf.eng.cam.ac.uk/smt
+Statistical Machine Translation Group at the University of Cambridge link: [http://divf.eng.cam.ac.uk/smt](http://divf.eng.cam.ac.uk/smt)
 
-Computational Linguistics group at Uppsala University     http://www.lingfil.uu.se/forskning/datorlingvistik/?languageId=1
+Computational Linguistics group at Uppsala University link: [http://www.lingfil.uu.se/forskning/datorlingvistik/?languageId=1](http://www.lingfil.uu.se/forskning/datorlingvistik/?languageId=1)
 
-The Center for Information and Language Processing at University of Munich     http://www.cis.uni-muenchen.de/ueber_uns/
+The Center for Information and Language Processing at University of Munich link: [http://www.cis.uni-muenchen.de/ueber_uns/](http://www.cis.uni-muenchen.de/ueber_uns/)
 
-National Centre for Language Technology at Dublin City University     http://www.nclt.dcu.ie/
+National Centre for Language Technology at Dublin City University link: [http://www.nclt.dcu.ie/](http://www.nclt.dcu.ie/)
 
-The National Centre for Text Mining (NaCTeM) at University of Manchester     http://nactem.ac.uk/
+The National Centre for Text Mining (NaCTeM) at University of Manchester link: [http://nactem.ac.uk/](http://nactem.ac.uk/)
 
-Institute of Computational Linguistics of the University of Zurich     http://www.cl.uzh.ch/en.html
+Institute of Computational Linguistics of the University of Zurich link: [http://www.cl.uzh.ch/en.html](http://www.cl.uzh.ch/en.html)
 
-The Information and Language Processing Systems group at the University of Amsterdam     http://ilps.science.uva.nl/
+The Information and Language Processing Systems group at the University of Amsterdam link: [http://ilps.science.uva.nl/](http://ilps.science.uva.nl/)
 
-Institute of Formal and Applied Linguistics at Charles University     http://ufal.mff.cuni.cz/
+Institute of Formal and Applied Linguistics at Charles University link: [http://ufal.mff.cuni.cz/](http://ufal.mff.cuni.cz/)
 
-DFKI Language Technology Lab     https://www.dfki.de/lt/
+DFKI Language Technology Lab link: [https://www.dfki.de/lt/](https://www.dfki.de/lt/)
