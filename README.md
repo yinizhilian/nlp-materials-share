@@ -20,6 +20,8 @@
 #### **Christopher Manning** 
 &ensp;&ensp;&ensp;&ensp;[Christopher Manning](https://nlp.stanford.edu/manning/)是斯坦福大学(Stanford University)计算机科学和语言学系教授，同时也是斯坦福大学人工智能实验室(SAIL)主任。他的研究目标是能够智能处理、理解和生成人类语言材料的计算机。Manning是将深度学习应用于自然语言处理领域的领军人物，在树递归神经网络、[词向量手套模型](https://nlp.stanford.edu/pubs/glove.pdf)、情绪分析、神经网络依赖分析、神经机器翻译、问题回答、深度语言理解等领域都有著名的研究成果。他还专注于分析、自然语言推理和多语言语言处理的计算语言学方法，包括斯坦福依赖关系和通用依赖关系的主要开发者。Manning与人合著了关于自然语言处理统计方法(NLP) (Manning and Schutze 1999)和信息检索(Manning, Raghavan, and Schutze, 2008)的领先教材，以及关于ergativity和complex谓词的语言学专著。他是ACM研究员，AAAI研究员，ACL研究员，前ACL主席(2015)。他的研究曾获得ACL、Coling、EMNLP和CHI最佳论文奖。1994年，他在澳大利亚国立大学(Australian National University)获得学士学位，在斯坦福大学(Stanford)获得博士学位。在回到斯坦福大学之前，他曾在卡内基梅隆大学(Carnegie Mellon University)和悉尼大学(University of Sydney)担任教职。他是斯坦福NLP集团的创始人，负责斯坦福CoreNLP软件的开发。
 
+#### **Richard Socher**
+&ensp;&ensp;&ensp;&ensp;[Richard Socher](https://www.socher.org/index.php/Main/HomePage)是Salesforce的首席科学家，带领团队从事基础研究(深度学习、自然语言处理、计算机视觉、演讲和推荐)、应用研究、产品孵化和构建跨产品AI平台。在此之前，他是斯坦福大学计算机科学系的兼职教授，也是2016年被Salesforce收购的MetaMind的创始人兼CEO/CTO。2014年，获得了斯坦福大学计算机科学系的博士学位。
 
 #### **Ehud Reiter** 
 &ensp;&ensp;&ensp;&ensp;Ehud Reiter是阿伯丁大学的计算机科学教授，同时也是Arria NLG的首席科学家，主要专注于自然语言生成(NLG)技术，即利用人工智能和自然语言处理技术，将非语言数据自动生成高质量文本和叙述文章。他的博客[Ehud Reiter's Blog](https://ehudreiter.com/blog-index/)主要包括：NLG系统的搭建、NLG系统性能的评估、NLG的学术生活、NLG相关话题、个人生活等五个部分，该博客对NLG技术、评价与应用进行了深入的探讨与反思。其中有一篇文章我觉得写得特别不错‘How do I Learn about NLG?’，主要讲了自己学习NLG的一些方法及感悟，感兴趣的同学可以拜读一下。<br>
