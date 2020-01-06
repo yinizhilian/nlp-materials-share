@@ -97,6 +97,10 @@
 源码地址：https://github.com/hughbzhang/HUSE <br>
 中文解读可见：https://zhuanlan.zhihu.com/p/63010816<br>
 
+&ensp;&ensp;&ensp;&ensp;12、**文本内容生成控制【salesforce】**[(NAACL 2019)CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION 
+](https://arxiv.org/abs/1909.05858)<br>
+&ensp;&ensp;&ensp;&ensp;大规模的语言模型显示了很有前途的文本生成功能，但是用户不能轻松地控制生成文本的特定方面。我们发布了CTRL，一个16.3亿个参数的条件转换语言模型，用来训练控制代码来控制风格、内容和特定任务的行为。控制代码源于与原始文本自然共存的结构，保留了无监督学习的优点，同时对文本生成提供了更明确的控制。这些代码还允许使用CTRL来预测训练数据的哪些部分最有可能是给定的序列。这为通过基于模型的源属性分析大量数据提供了一种潜在的方法。<br>
+源码地址：https://github.com/salesforce/ctrl <br>
 
 
 ## 未完待续。。。
