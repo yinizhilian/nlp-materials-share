@@ -3,7 +3,7 @@
 微信公众号: [**AINLPer**](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=100000044&idx=1&sn=0c1a7119492d960383a02a3084589b85&chksm=7ac396f04db41fe69a0d1bac89b34c9c92b37602fe80107b8cf589e8b62288e3c1a83fa074ce&mpshare=1&scene=23&srcid=&sharer_sharetime=1577713726026&sharer_shareid=eacf0e57018e0f1e44bbc3e3d22d8fd2#rd)<br>
 
 * [自然语言生成(NLG)](#自然语言生成)
-* [自然语言信息抽取(IE)](#自然语言信息抽取)
+* [自然语言信息抽取(IE)](#自然语言信息抽取(IE))
 
 
 
@@ -147,6 +147,7 @@
 ### 关系抽取分类
 
 #### 关系抽取方法分类
+
 *  基于模式匹配的方法<br>       
 *  基于词典驱动的方法<br>
 *  基于机器学习的方法<br>
