@@ -1,4 +1,4 @@
-各位NLPer，因实验室要求，马上要入NLP的深坑，所以现在开始看NLP相关的内容，一边查资料一边整理并与大家分享，希望也能帮到你。如果您觉得有用，给个Star吧。。。<br>
+各位NLPer，因实验室要求，马上要入NLP的深坑，所以现在开始看NLP相关的内容，一边查资料一边整理并与大家分享，希望也能帮到你。如果您觉得有用，给个Star吧。<br>
 知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)<br>
 微信公众号: [**AINLPer**](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=100000044&idx=1&sn=0c1a7119492d960383a02a3084589b85&chksm=7ac396f04db41fe69a0d1bac89b34c9c92b37602fe80107b8cf589e8b62288e3c1a83fa074ce&mpshare=1&scene=23&srcid=&sharer_sharetime=1577713726026&sharer_shareid=eacf0e57018e0f1e44bbc3e3d22d8fd2#rd)<br>
 
