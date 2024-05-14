@@ -1,6 +1,10 @@
-各位NLPer，因实验室要求，马上要入NLP的深坑，所以现在开始看NLP相关的内容，一边查资料一边整理并与大家分享，希望也能帮到你。如果您觉得有用，给个Star吧。<br>
-知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)<br>
-微信公众号: [**AINLPer**](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247493926&idx=1&sn=7c3af9a58296f10173b3eba3bec15137&chksm=fac07efacdb7f7ec6f879dad43d5c3dd9af8950ba65faa3cea3f8cbef8208adae2449ec29327&token=890750657&lang=zh_CN#rd)<br>
+>各位NLPer，因实验室要求，马上要入NLP的深坑，所以现在开始看NLP相关的内容，一边查资料一边整理并与大家分享，希望也能帮到你。如果您觉得有用，给个Star吧。<br>
+
+>知乎地址：[**ShuYini**](https://www.zhihu.com/people/wangjini521/activities)<br>
+
+>微信公众号: [**AINLPer**](https://mp.weixin.qq.com/s?__biz=MzUzOTgwNDMzOQ==&mid=2247493926&idx=1&sn=7c3af9a58296f10173b3eba3bec15137&chksm=fac07efacdb7f7ec6f879dad43d5c3dd9af8950ba65faa3cea3f8cbef8208adae2449ec29327&token=890750657&lang=zh_CN#rd)<br>
+
+
 
 * [一、自然语言生成(NLG)](#自然语言生成)
 
